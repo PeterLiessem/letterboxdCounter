@@ -1,2 +1,2 @@
 # letterboxdCounter
-### python3 letterboxdCounter.py 'name'  
+```python3 letterboxdCounter.py 'name'  ```
